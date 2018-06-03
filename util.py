@@ -1,6 +1,6 @@
 from wit import Wit
 
-access_token = "DW5PUYEHHFDCEINOIFXD2IDV7TB3FFUM"
+access_token = "XXXXXXXXXXXXXXXXXX"
 client = Wit(access_token = access_token)
 
 def wit_response(message_text):
