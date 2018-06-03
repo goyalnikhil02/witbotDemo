@@ -5,7 +5,7 @@ import  platform
 from util import wit_response
 app = Flask(__name__)
 
-PAGE_ACCESS_TOKEN = "EAAGxAZC5ZCXbwBAPvTheAZA0NGrC3vwIhMgXkL7zy9DcMm3Cv7vhxym30dhAxnrjpKw0afPyBb9703JBFtFSw06yB2bnCLcDzyRsmW65niZCcipdKYvSqw3qcwZBRvZB5YfM49WYYtzZC2V6Oayr5ZANK5cZANYIpskZBePhPi91jXBAZDZD"
+PAGE_ACCESS_TOKEN = "################"
 
 bot = Bot(PAGE_ACCESS_TOKEN)
 
